@@ -4,7 +4,7 @@
 
 const float dt = 0.015;
 const float g = 9.8;
-const ofVec2f gravity = ofVec2f(1, 9.78);
+const ofVec2f gravity = ofVec2f(0, 9.78);
 
 
 Obj::Obj(){
